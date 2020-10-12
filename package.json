@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "name": "basic-microservices-post",
   "version": "1.0.0",
   "main": "index.js",
